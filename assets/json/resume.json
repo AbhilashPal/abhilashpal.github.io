@@ -1,200 +1,261 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Abhilash Pal",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "abhilashpal8@gmail.com",
+    "phone": "+49 0157373100",
+    "url": "",
+    "summary": "Software Engineer with an MSc in Informatik from TU München, and hands-on experience in Machine Learning, NLP, Computer Vision, cloud infrastructure, and GenAI services. Experienced in robust, secure deployment of ML and backend systems, with interests in research and applied AI.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Munich",
+      "countryCode": "DE",
+      "region": "Bavaria"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "abhilashpal",
+        "url": "https://www.linkedin.com/in/abhilashpal/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "iABG",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "summary": "Managing and maintaining VM infrastructure, robust access control, high-availability nginx servers, container orchestration, API security, and monitoring for GenAI services. Leading modular chatbot development and document comparison tooling.",
+      "highlights": [
+        "Managed virtual machine infrastructure and implemented access control",
+        "Ensured high availability and security for nginx servers",
+        "Orchestrated service containerization with health checks and auto-healing",
+        "Designed and maintained secure API infrastructure",
+        "Implemented monitoring solutions for GenAI services (Prometheus)",
+        "Led modularization of a general-purpose chatbot with experimental features",
+        "Developed a Document Comparison tool for change analysis and compliance"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "iABG",
+      "position": "Werkstudent (NLP/Robust Deep Learning)",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-30",
+      "summary": "Worked with LLMs for code generation, topic modeling, and RAG projects. Maintained and extended coding assistant and general chatbot for internal teams.",
+      "highlights": [
+        "Utilized LLMs for code generation and topic modeling",
+        "Built and maintained internal coding assistant",
+        "Extended assistant to a general chatbot",
+        "Developed RAG project for extracting evidence from knowledge bases"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "position": "Werkstudent: Applied Scientist, Speech Recognition",
+      "url": "",
+      "startDate": "2021-10-01",
+      "endDate": "2023-03-31",
+      "summary": "Worked on ASR, Sign Language Recognition, and tools for Azure ML Services. Contributed to customer-driven tool adaptation, sign language data analysis, and published research.",
+      "highlights": [
+        "Worked on ASR and Sign Language Recognition for Azure ML",
+        "Adapted internal testing tools for customer requirements",
+        "Worked on signer overlap detection and clustering for sign language corpora",
+        "Contributed to two research papers"
+      ]
+    },
+    {
+      "name": "Convaise UG",
+      "position": "IDP Student",
+      "url": "",
+      "startDate": "2021-04-01",
+      "endDate": "2021-09-30",
+      "summary": "Researched text generation using SOTA models (GPT2, Prophetnet, T5, Pegasus), focused on multilingual question generation and paraphrasing.",
+      "highlights": [
+        "Worked on text generation with GPT2, Prophetnet, T5, Pegasus",
+        "Main focus: multilingual question generation & paraphrasing",
+        "Worked with Huggingface, Pytorch, Colab, AWS Sagemaker"
+      ]
+    },
+    {
+      "name": "Citrusberry Business Solutions",
+      "position": "NLP Intern",
+      "url": "",
+      "startDate": "2019-12-01",
+      "endDate": "2020-08-31",
+      "summary": "Trained GPT2 for product description generation for e-commerce clients. Scraped and processed datasets.",
+      "highlights": [
+        "Trained GPT2 for product description generation",
+        "Scraped and cleaned text data for datasets"
+      ]
+    },
+    {
+      "name": "Indian Statistical Institute",
+      "position": "Summer Research Intern",
+      "url": "",
+      "startDate": "2019-05-01",
+      "endDate": "2019-07-31",
+      "summary": "Built an OCR system for Bengali script using CNN-RNN-CTC pipeline under Dr. Utpal Garain.",
+      "highlights": [
+        "Built OCR using CNN-RNN-CTC for historical Bengali documents",
+        "Scraped Bengali news sites for dataset creation"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Technische Universität München",
+      "location": "Germany",
+      "url": "https://www.tum.de/",
+      "area": "Informatik",
+      "studyType": "MSc",
+      "startDate": "2020-10-01",
+      "endDate": "",
+      "score": "2.1",
+      "courses": [],
+      "summary": "Final Thesis: 'Interpretable and Faithful Topic Modeling' (graded 1.7)"
+    },
+    {
+      "institution": "SRM Institute of Science and Technology",
+      "location": "India",
+      "url": "https://www.srmist.edu.in/",
+      "area": "Computer Science",
+      "studyType": "BTech",
+      "startDate": "2016-08-01",
+      "endDate": "2020-06-01",
+      "score": "9.1/10",
+      "courses": [],
+      "summary": "Final Project: 'Music Generation using LSTMs'"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Ranked #1 (BLEU Score), WMT22 Shared Task on Sign Language Translation",
+      "date": "2022-12-01",
+      "awarder": "WMT Shared Task",
+      "url": "https://www.statmt.org/wmt22/pdf/2022.wmt-1.93.pdf",
+      "summary": ""
+    },
+    {
+      "title": "First Prize, IET Hackathon 2019",
+      "date": "2019-01-01",
+      "awarder": "SRM University KTR",
+      "url": "",
+      "summary": "Worked on an incentivised parking solution with RFID and numberplate detection."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Clean Text and Full-Body Transformer: Microsoft’s Submission to the WMT22 Shared Task on Sign Language Translation",
+      "publisher": "EMNLP 2022",
+      "releaseDate": "2022-12-01",
+      "url": "https://www.statmt.org/wmt22/pdf/2022.wmt-1.93.pdf",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "On The Importance of Signer Overlap For Sign Language Detection",
+      "publisher": "arXiv",
+      "releaseDate": "2023-03-20",
+      "url": "https://arxiv.org/pdf/2303.10782.pdf",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Musenet: Music Generation using Abstractive and Generative Methods",
+      "publisher": "International Journal of Innovative Technology and Exploring Engineering",
+      "releaseDate": "2020-06-01",
+      "url": "https://www.ijitee.org/wp-content/uploads/papers/v9i6/F3580049620.pdf",
+      "summary": ""
+    },
+    {
+      "name": "ConciseNet: An End to End Abstractive Model for Topic Generation",
+      "publisher": "International Journal of Engineering Applied Science and Technology",
+      "releaseDate": "2019-01-01",
+      "url": "https://www.ijeast.com/papers/197-202,Tesma404,IJEAST.pdf",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "level": "",
+      "keywords": ["C", "C++", "Python", "Javascript", "Bash"]
+    },
+    {
+      "name": "Deep Learning Tools",
+      "level": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Pytorch", "Scikit-learn", "Tensorflow", "Huggingface",
+        "vLLM", "Langchain", "BERTopic", "MLFlow", "FastAPI"
       ]
+    },
+    {
+      "name": "Cloud",
+      "level": "",
+      "keywords": ["Azure", "AWS Sagemaker"]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": ["Linux", "Windows"]
+    },
+    {
+      "name": "Other Tools",
+      "level": "",
+      "keywords": ["Docker", "Slurm Workload Manager"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "English",
+      "fluency": "Fluent"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "Hindi",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Robustness",
+        "Interpretability"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Coding Assistant & General Chatbot (iABG)",
+      "summary": "Built and maintained a coding assistant for employees, extended into a general-purpose chatbot, integrating RAG and monitoring for improvements.",
+      "highlights": ["LLM-based assistant", "RAG for evidence extraction"],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Document Comparison Tool (iABG)",
+      "summary": "Developed a tool to analyze and report changes between document versions, identify inconsistencies, and support compliance workflows.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "OCR for Bengali Script (ISI Kolkata)",
+      "summary": "Built an OCR system for Bengali historical documents using CNN-RNN-CTC architecture.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
